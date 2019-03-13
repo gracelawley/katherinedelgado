@@ -2,26 +2,22 @@
 active: true
 date_format: Jan 2006
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2018-02-01"
   description: ""
-  organization: Coursera
-  title: Neural Networks and Deep Learning
-- certificate_url: https://www.edx.org
+  organization: Oregon Health & Science University
+  title: Humane Handling and Laboratory Techniques for Mice
+  
+- certificate_url: ""
   date_end: ""
-  date_start: "2018-03-01"
+  date_start: "2018-05-01"
   description: ""
-  organization: edX
-  title: Blockchain Fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  title: Intro to Python
+  organization: Oregon Health & Science University
+  title: Introductory Radiation Safety Training
+  
 subtitle: ""
-title: Accomplish&shy;ments
+title: Certifica&shy;tions
 weight: 50
 widget: accomplishments
 ---

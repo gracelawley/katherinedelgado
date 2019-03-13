@@ -17,11 +17,7 @@ design:
   background: {}
   view: 2
 subtitle: ""
-title: Recent Publications
+title: Publications
 weight: 90
 widget: pages
 ---
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
