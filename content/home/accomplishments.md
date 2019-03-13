@@ -18,6 +18,6 @@ item:
   
 subtitle: ""
 title: Certifica&shy;tions
-weight: 50
+weight: 90
 widget: accomplishments
 ---

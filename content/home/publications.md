@@ -18,6 +18,6 @@ design:
   view: 2
 subtitle: ""
 title: Publications
-weight: 90
+weight: 50
 widget: pages
 ---
